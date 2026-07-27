@@ -6,7 +6,7 @@
 💻 Currently learning:
 - Java Programming
 - Data Structures & Algorithms
-- MySQL
+- SQL & MySQL
 - Database Management System (DBMS)
 - Operating Systems
 - Data Analytics
